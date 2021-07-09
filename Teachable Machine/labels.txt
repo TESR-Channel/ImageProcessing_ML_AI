@@ -1,0 +1,4 @@
+0 pfizer
+1 astra
+2 moderna
+3 sinovac
